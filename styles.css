@@ -1,0 +1,48 @@
+body {
+    background: #fff;
+    color: #222;
+}
+.me {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+      width: 250px;
+  height: 250px;
+  margin-top: 50px;
+  border-width: 5px;
+}
+.nav {
+    padding-right:75px;
+    display: block;
+}
+span.gylphicon,.glyphicon-bell {
+
+
+}
+/*micropone img inside searchbar*/
+
+input,.search {
+        padding-left: 173px;
+    padding-right: 173px;
+height: 38px;
+    border-style: inset;
+ background-image: url("images/mic.png");
+     background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+
+button.btn-group,.btn {
+   position: relative;
+    top: 25px;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+div.btn-group {
+ margin: 0 auto; 
+    text-align: center;
+    width: inherit;
+    display: inline-block;
